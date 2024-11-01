@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Worten Conector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-27 06:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: worten-conector"
+
+#: core/includes/classes/class-worten-conector-run.php:106
+msgid "About integration"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:130
+msgid "Access and manage your integration"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:125
+msgid "Access Backoffice"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Catalog and orders integration between your Woocommerce Store and Worten "
+"Marketplace"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mirakl.teracondition.pt"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://teracondition.pt"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:111
+msgid "Learn about the integration with Worten Marketplace and Woocommerce"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:70
+msgid "Subscribe"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:144
+msgid "Subscribe and Activate"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:149
+msgid "Subscribe and activate the Worten Marketplace Connector"
+msgstr ""
+
+#. Author of the plugin
+msgid "TERACONDITION"
+msgstr ""
+
+#. Name of the plugin
+msgid "Worten Conector"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:94
+msgid "Worten Conenctor"
+msgstr ""
+
+#: core/includes/classes/class-worten-conector-run.php:89
+msgid "Worten Connector"
+msgstr ""
+
+#: core/class-worten-conector.php:54
+msgid "You are not allowed to clone this class."
+msgstr ""
+
+#: core/class-worten-conector.php:65
+msgid "You are not allowed to unserialize this class."
+msgstr ""
